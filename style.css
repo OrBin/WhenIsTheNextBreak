@@ -1,0 +1,20 @@
+div {
+    font-family: 'Varela Round', sans-serif;
+}
+#timer-parent {
+    display: block;
+}
+.timer-title {
+    margin-top: 60px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.timer-element {
+    font-size: 60px;
+}
+.break-length {
+    font-size: 17px;
+}
+body {
+    direction: rtl;
+}
